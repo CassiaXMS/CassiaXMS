@@ -1,5 +1,12 @@
-# Hello World! 👋  Welcome to my profile
-## :round_pushpin: I'm CassiaXMS 
+<div align="center">
+  <h1> Hello World! 👋  Welcome to my profile </h1>
+  <img src="https://github.com/CassiaXMS/CassiaXMS/blob/main/function%20(progrmar)%20%7B.gif" width="700px" />
+</div>
+
+
+
+
+
 
 
 **CassiaXMS/CassiaXMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
