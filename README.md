@@ -10,9 +10,9 @@
   *Atualmente estou concentrada no ramo da aprendizagem da programação. :computer:
   Cada dia está sendo uma evolução em aprender Lógica de programação :books::book:*
   
-  *Estou executando programas em C | 1°Sem no Curso Superior em Análise de Desenvolvimento de Sistemas (Técnológo).:mortar_board:
+  *Estou executando programas em C | 1°Sem no Curso Superior em Análise de Desenvolvimento de Sistemas (Técnológo).:mortar_board:*
   
-  *Sou motivada pela educação através dela descobri que o conhecimento é chave para abrir portas :key:
+  *Sou motivada pela educação através dela descobri que o conhecimento é chave para abrir portas :key*
   
   *✨ Pretendo ser uma Desenvolvedora Web ✨
   O meu objetivo é conseguir resolver problemas... :round_pushpin:*
