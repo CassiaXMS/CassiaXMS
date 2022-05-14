@@ -7,20 +7,16 @@
   
   *Meu nome é **Cassia Xavier** :woman: tenho 18 anos, sou brasileira  moro em Monte Mor, São Paulo!*
   
-  *Atualmente estou concentrada no ramo da aprendizagem da programação. :computer:
+  *Atualmente estou concentrada no ramo de aprendizagem da programação. :computer:
   Cada dia está sendo uma evolução em aprender Lógica de programação :books::book:*
   
-  *Estou executando programas em C | 1°Sem no Curso Superior em Análise de Desenvolvimento de Sistemas (Técnológo).:mortar_board:*
+  *Estou executando programas em C e Python*
   
-  *Sou motivada pela educação através dela descobri que o conhecimento é chave para abrir portas :key*
+  *1°Sem no Curso Superior em Análise de Desenvolvimento de Sistemas (Técnológo).:mortar_board:*
   
-  *✨ Pretendo ser uma Desenvolvedora Web ✨
-  O meu objetivo é conseguir resolver problemas... :round_pushpin:*
+  *Sou motivada pela educação através dela descobri que o conhecimento é chave para abrir portas.*
+  
+  O meu objetivo é ser uma Desenvolvedora FullStack e capaz de resolver problemas com segurança ✨
 </div>
 
-
-
-- 🌱 Atualmente estou no 1°Sem em ADS
-- 👯 Atualmente estou estudando lógica de progração em C
-- :computer: Atualmnete estou desenvolvendo o meu portfólio
 
