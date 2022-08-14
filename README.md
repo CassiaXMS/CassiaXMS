@@ -41,9 +41,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
   
-  
   ##
+  <div align="center">
   
+  ![Snake animation](https://github.com/CassiaXMS/CassiaXMS/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 
 
     
