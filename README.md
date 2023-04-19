@@ -3,7 +3,8 @@
 </div>
 
 <div style="display: inline_block">
-<img align="right" src="blob:https://web.whatsapp.com/5dc858c3-78a8-45c4-a4ea-c1df423a954f" width="150" height="150" />
+<img align="right" src= "https://photos.app.goo.gl/WctHGQnrGouH9DfC7" width="150" height="150"/>
+
  
    <p align="center"> Meu nome é  <a href="linkedin.com/in/cássia-xavier-mendes-dos-santos"><i>Cassia Xavier</i></a>:woman: tenho 19 		anos, sou brasileira  moro em Monte Mor, São Paulo!
   	Atualmente estou concentrada no ramo de aprendizagem da programação :computer:
