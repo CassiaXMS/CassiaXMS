@@ -3,8 +3,8 @@
 </div>
 
 <div style="display: inline_block">
-<img align="right" src= "https://photos.app.goo.gl/WctHGQnrGouH9DfC7" width="150" height="150"/>
 
+<a href="https://ibb.co/jMKpZC9"><img align="right" src="https://i.ibb.co/jMKpZC9/download20230402231335.png" alt="download20230402231335"  width="150" height="150" border="0"></a>
  
    <p align="center"> Meu nome é  <a href="linkedin.com/in/cássia-xavier-mendes-dos-santos"><i>Cassia Xavier</i></a>:woman: tenho 19 		anos, sou brasileira  moro em Monte Mor, São Paulo!
   	Atualmente estou concentrada no ramo de aprendizagem da programação :computer:
