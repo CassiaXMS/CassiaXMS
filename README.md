@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> Hello World! :sparkles:  Welcome to my profile :arrow_heading_down: 😃️ </h1>
+  <h1 align="center"> Hello World! :sparkles:  Welcome to my profile 😃️ </h1>
 </div>
 
 <div style="display: inline_block">
