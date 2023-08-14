@@ -9,8 +9,8 @@
    <p align="center"> Meu nome é  <a href="linkedin.com/in/cássia-xavier-mendes-dos-santos"><i>Cassia Xavier</i></a>:woman: tenho 19 		anos, sou brasileira  moro em Monte Mor, São Paulo!
   	Atualmente estou concentrada no ramo de aprendizagem da programação :computer:
    	Cada dia está sendo uma evolução em aprender Lógica de programação :books::book:
-   	Estou aprimorando os conhcimentos em diversas linguagens como C, Java, C# e Python no
-   	3°Sem no Curso Superior em Análise de Desenvolvimento de Sistemas (Técnológo).:mortar_board:
+   	Estou aprimorando os conhecimentos em diversas linguagens como C, Java, C# e Python no
+   	4°Sem no Curso Superior em Análise de Desenvolvimento de Sistemas (Técnológo).:mortar_board:
    	Sou motivada pela educação através dela descobri que o conhecimento é chave para abrir portas.
    	O meu objetivo é ser uma Desenvolvedora FullStack e capaz de resolver problemas com segurança ✨ 
    </p>    
