@@ -1,18 +1,22 @@
 <div>
-  <h1 align="center"> Hello World! :sparkles:  Welcome to my profile 😃️ </h1>
+  <h1 align="center"> Hello World!💻 </h1>
+  <h3 align="center">Welcome to my profile ✨</h3>
 </div>
 
 <div style="display: inline_block">
 
 <a href="https://ibb.co/jMKpZC9"><img align="right" src="https://i.ibb.co/jMKpZC9/download20230402231335.png" alt="download20230402231335"  width="150" height="150" border="0"></a>
  
-   <p align="center"> Meu nome é  <a href="linkedin.com/in/cássia-xavier-mendes-dos-santos"><i>Cassia Xavier</i></a>:woman: tenho 19 		anos, sou brasileira  moro em Monte Mor, São Paulo!
-  	Atualmente estou concentrada no ramo de aprendizagem da programação :computer:
-   	Cada dia está sendo uma evolução em aprender Lógica de programação :books::book:
-   	Estou aprimorando os conhecimentos em diversas linguagens como C, Java, C# e Python no
+   <p align="center"> Meu nome é  <a href="linkedin.com/in/cássia-xavier-mendes-dos-santos"><i>Cassia Xavier</i></a>:woman: tenho 20 anos, sou brasileira resido em Monte Mor, São Paulo!
+     
+Atualmente estou concentrada no ramo de aprendizagem da programação :computer:
+    Cada dia está sendo uma evolução em aprender mais sobre esse Universo :books::book:
+
+Estou aprimorando os conhecimentos em diversas linguagens como C, Java, MySQL, C# e Python no
    	4°Sem no Curso Superior em Análise de Desenvolvimento de Sistemas (Técnológo).:mortar_board:
    	Sou motivada pela educação através dela descobri que o conhecimento é chave para abrir portas.
-   	O meu objetivo é ser uma Desenvolvedora FullStack e capaz de resolver problemas com segurança ✨ 
+   	
+O meu objetivo é ser uma Desenvolvedora FullStack e capaz de resolver problemas com segurança ✨ 
    </p>    
 </div>
 
