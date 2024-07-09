@@ -1,6 +1,5 @@
 <div>
-  <h1 align="center"> Hello World!💻 </h1>
-  <h3 align="center">Welcome to my profile ✨</h3>
+  <h1 align="center"> Hello World !💻 </h1>
 </div>
 
 <div style="display: inline_block">
@@ -21,8 +20,7 @@ O meu objetivo é ser uma Desenvolvedora FullStack e capaz de resolver problemas
 </div>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/cassi.axavier/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:xaviercassia560@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cassiaxavier66@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/cássia-xavier-mendes-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
